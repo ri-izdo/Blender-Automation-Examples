@@ -2,6 +2,9 @@
 
 Welcome to the Blender Automation Repository! This repository is dedicated to streamlining and automating various production tasks within Blender, the powerful 3D modeling and animation software. Whether you're a seasoned Blender artist or just starting out, this collection of scripts and tools aims to enhance your workflow and increase efficiency in your projects.
 
+![Alt Text](https://github.com/ri-izdo/Blender-Automation/blob/main/sources/test%20Sketch.jpg =504x1000)
+![Alt Text](https://github.com/ri-izdo/Blender-Automation/blob/main/sources/autonomous_humans.gif)
+
 ## Features
 
 - Automated Rendering: Render scenes or animations with predefined settings automatically.

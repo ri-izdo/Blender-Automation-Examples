@@ -9,6 +9,8 @@ Pre-visual                 |  Automated World-building
 
 ## Features
 
+- Synthetic Human Library Management: Organize and callout based on metadata. 
+- Automated Skinning & Rigging: Applies 3d skeleton onto an existing synthetic human.
 - Automated Rendering: Render scenes or animations with predefined settings automatically.
 - Batch Processing: Process multiple files or scenes in one go, saving time and effort.
 - Asset Management: Organize, import, and manage assets seamlessly within Blender.
